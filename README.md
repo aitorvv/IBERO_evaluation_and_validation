@@ -5,6 +5,12 @@
 
 ---
 
+
+
+[![DOI](https://zenodo.org/badge/642749768.svg)](https://zenodo.org/badge/latestdoi/642749768)
+
+
+
 That repository contains the information related with the paper titled: 
 
 **Evaluation and validation of forest growth models for Mediterranean and Scots pine in Spain**
