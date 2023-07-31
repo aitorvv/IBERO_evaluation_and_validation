@@ -7,7 +7,8 @@
 
 
 
-[![DOI](https://zenodo.org/badge/642749768.svg)](https://zenodo.org/badge/latestdoi/642749768)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8199180.svg)](https://doi.org/10.5281/zenodo.8199180)
+
 
 
 
