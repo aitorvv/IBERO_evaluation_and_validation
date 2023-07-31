@@ -1,7 +1,7 @@
 
 # IBERO evaluation and validation
 
-*Original data, code and results of: Evaluation and validation of forest growth models for Mediterranean and Scots pine in Spain*
+*Original data, code and results of: Evaluation and validation of forest models: insight from Mediterranean and Scots pine models in Spain*
 
 ---
 
@@ -13,7 +13,7 @@
 
 That repository contains the information related with the paper titled: 
 
-**Evaluation and validation of forest growth models for Mediterranean and Scots pine in Spain**
+**Evaluation and validation of forest models: insight from Mediterranean and Scots pine models in Spain**
 
 Repository contents:
 
