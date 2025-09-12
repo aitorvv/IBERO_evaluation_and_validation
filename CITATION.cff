@@ -1,4 +1,4 @@
-cff-version: 1.1
+cff-version: 1.0.0
 message: "If you use this information, please cite it as below."
 author:
 - family-names: "Vázquez-Veloso"
@@ -16,5 +16,5 @@ author:
 title: 'Code, data and resources for "Evaluation and validation of forest models: insight from Mediterranean and Scots pine models in Spain"'
 version: 1.1
 doi: https://doi.org/10.1016/j.ecoinf.2023.102246
-date-released: 2023-05-19
+date-released: 2023-07-31
 url: "https://github.com/aitorvv/IBERO_evaluation_and_validation"
