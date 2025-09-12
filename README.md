@@ -1,20 +1,14 @@
+# Evaluation and validation of forest models: insight from Mediterranean and Scots pine models in Spain
 
-# IBERO evaluation and validation
-
-*Original data, code and results of: Evaluation and validation of forest models: insight from Mediterranean and Scots pine models in Spain*
+*A repository with the original data, code and results of the scientific article*
 
 ---
 
+:open_file_folder: Repository DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8199180.svg)](https://doi.org/10.5281/zenodo.8199180)
 
+📜 Manuscript DOI: https://doi.org/10.1016/j.ecoinf.2023.102246
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8199180.svg)](https://doi.org/10.5281/zenodo.8199180)
-
-
-
-
-That repository contains the information related with the paper titled: 
-
-**Evaluation and validation of forest models: insight from Mediterranean and Scots pine models in Spain**
+---
 
 Repository contents:
 
@@ -87,12 +81,33 @@ Repository contents:
 
 ---
 
+## :link: About the authors:
 
-[IBERO evaluation and validation](https://github.com/aitorvv/IBERO_evaluation_and_validation) 
+#### Aitor Vázquez Veloso:
 
-:link: More about me:
+[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv) \\
 [ORCID](https://orcid.org/0000-0003-0227-506X) \\
 [Researchgate](https://www.researchgate.net/profile/Aitor_Vazquez_Veloso) \\
 [LinkedIn](https://www.linkedin.com/in/aitorvazquezveloso/) \\
 [Twitter](https://twitter.com/aitorvv) \\
-[iuFOR](http://sostenible.palencia.uva.es/users/aitorvv)
+[UVa](https://portaldelaciencia.uva.es/investigadores/178830/detalle)
+
+#### Valentín Pando
+
+#### Angel Cristóbal Ordóñez Alonso:
+
+[![](https://github.com/acristo.png?size=50)](https://github.com/acristo) \\
+[ORCID](https://orcid.org/0000-0001-5354-3760) \\
+[Researchgate](https://www.researchgate.net/profile/Cristobal-Ordonez-Alonso) \\
+[LinkedIn](https://www.linkedin.com/in/cristobal-ordonez-b6a97244/) \\
+[Twitter](https://twitter.com/OrdonezAC) \\
+[UVa](https://portaldelaciencia.uva.es/investigadores/181312/detalle)
+
+#### Felipe Bravo Oviedo:
+
+[![](https://github.com/Felipe-Bravo.png?size=50)](https://github.com/Felipe-Bravo) \\
+[ORCID](https://orcid.org/0000-0001-7348-6695) \\
+[Researchgate](https://www.researchgate.net/profile/Felipe-Bravo-11) \\
+[LinkedIn](https://www.linkedin.com/in/felipebravooviedo) \\
+[Twitter](https://twitter.com/fbravo_SFM) \\
+[UVa](https://portaldelaciencia.uva.es/investigadores/181874/detalle)
